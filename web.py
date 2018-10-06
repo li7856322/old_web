@@ -1,3 +1,3 @@
 def index(request):
-    return 1
+    pass #bug fix 101
 
